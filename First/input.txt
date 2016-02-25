@@ -1,6 +1,0 @@
-class yvn {
-	int a,b,c;
-	int k=10.90;
-
-	return 43,33;
-}
